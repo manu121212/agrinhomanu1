@@ -11,7 +11,7 @@ body {
 header {
     background-color: #f3a578;
     border-bottom: 1px solid #e79110;
-    padding: 10px 20px;
+    padding: 20px 40px;
     display: flex;
     align-items: center;
     justify-content: space-between;
