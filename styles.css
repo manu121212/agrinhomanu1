@@ -23,7 +23,7 @@ header {
 }
 
 .logo {
-    width: 400px; /* Ajuste o tamanho conforme necessário */
+    width: 150px; /* Ajuste o tamanho conforme necessário */
     height: auto;
     margin-right: 30px; /* Espaçamento entre o logo e o título */
 }
