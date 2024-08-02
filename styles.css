@@ -2,7 +2,7 @@
 body {
     font-family: 'Georgia', serif; /* Fonte mais delicada */
     line-height: 1.6;
-    background-color: #e79110; /* Cor de fundo padrão */
+    background-color: #ff9900; /* Cor de fundo padrão */
     margin: 0;
     padding: 0;
 }
@@ -30,7 +30,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 2rem; /* Tamanho do título ajustado para um visual mais elegante */
-    color: #913f05; /* Cor do texto */
+    color: #ffff; /* Cor do texto */
     font-family: 'Georgia', serif; /* Fonte mais delicada */
 }
 
@@ -46,7 +46,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #913f05;
+    color: #ffff;
     text-decoration: none;
     font-size: 1.2rem; /* Ajuste o tamanho da fonte para um toque mais refinado */
     font-family: 'Georgia', serif; /* Fonte mais delicada */
