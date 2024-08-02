@@ -23,9 +23,9 @@ header {
 }
 
 .logo {
-    width: 200px; /* Ajuste o tamanho conforme necessário */
+    width: 400px; /* Ajuste o tamanho conforme necessário */
     height: auto;
-    margin-right: 10px; /* Espaçamento entre o logo e o título */
+    margin-right: 30px; /* Espaçamento entre o logo e o título */
 }
 
 header h1 {
