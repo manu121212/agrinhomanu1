@@ -2,13 +2,13 @@
 body {
     font-family: 'Georgia', serif; /* Fonte mais delicada */
     line-height: 1.6;
-    background-color: #f5ab0b; /* Cor de fundo padrão */
+    background-color: #FF7F50; /* Cor de fundo padrão */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #ff6105;
+    background-color: #ffd700;
     border-bottom: 1px solid #e79110;
     padding: 20px 40px;
     display: flex;
@@ -63,7 +63,7 @@ main {
 }
 
 footer {
-    background-color: #c40808;
+    background-color: #C40808;
     color: #fff;
     text-align: center;
     padding: 10px 0;
