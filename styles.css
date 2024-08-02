@@ -9,36 +9,46 @@ body {
 }
 
 header {
-    background-size: cover;
-    background-position: center;
-    color: #f5d285;
-    padding: 10px 0;
-    text-align: center;
-    height: 300px; /* Altura ajustável conforme necessário */
+    background-color: #f3a578;
+    border-bottom: 1px solid #e79110;
+    padding: 10px 20px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 80px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-right: 10px; /* Espaçamento entre o logo e o título */
 }
 
 header h1 {
     margin: 0;
-    font-size: 2.5rem;
+    font-size: 1.8rem; /* Ajuste o tamanho do título conforme necessário */
+    color: #fff; /* Cor do texto */
 }
 
 nav ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
+    display: flex;
 }
 
 nav ul li {
-    display: inline;
     margin-right: 20px;
 }
 
 nav ul li a {
     color: #fff;
     text-decoration: none;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 nav ul li a:hover {
